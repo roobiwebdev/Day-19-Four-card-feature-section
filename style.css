@@ -13,7 +13,7 @@ body {
   font-family: "Poppins", sans-serif;
   background: #fafbfb;
   color: #50505e;
-  height: auto;
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -29,7 +29,7 @@ header {
   margin-bottom: 4em;
 }
 p {
-  color: #868686;
+  color: #a3a5ae;
 }
 
 .disc {
@@ -42,7 +42,7 @@ h1 {
 }
 h1,
 h3 {
-  color: #525252;
+color: #4c4e61;
 }
 
 span {
