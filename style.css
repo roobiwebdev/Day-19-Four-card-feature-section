@@ -13,7 +13,7 @@ body {
   font-family: "Poppins", sans-serif;
   background: #fafbfb;
   color: #50505e;
-  height: 100vh;
+  height: auto;
   display: flex;
   flex-direction: column;
   justify-content: center;
