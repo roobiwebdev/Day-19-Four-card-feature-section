@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Screenshot
 
+![desktop-design](https://github.com/user-attachments/assets/3114c224-1cf3-48c4-92d5-f85ad0746097)
 
-![desktop-preview](https://github.com/user-attachments/assets/14f1ea57-6f16-4328-9268-d1e5dc915017)
 
 
 ### Links
